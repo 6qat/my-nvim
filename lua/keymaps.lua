@@ -5,7 +5,6 @@ vim.keymap.set("i", "<C-l>", "<Right>", { desc = "Move Right" })
 vim.keymap.set("i", "<C-j>", "<Down>", { desc = "Move Down" })
 vim.keymap.set("i", "<C-k>", "<Up>", { desc = "Move Up" })
 
-
 vim.keymap.set("n", "<C-h>", "<C-w>h", { desc = "Switch Window left" })
 vim.keymap.set("n", "<C-l>", "<C-w>l", { desc = "Switch Window right" })
 vim.keymap.set("n", "<C-j>", "<C-w>j", { desc = "Switch Window down" })
