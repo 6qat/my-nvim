@@ -5,9 +5,9 @@ return {
     local config = require("nvim-treesitter.configs")
     config.setup({
       ensure_installed = {
-        "lua", 
+        "lua",
         "javascript",
-        "typescript", 
+        "typescript",
         "scala",
         "rust",
         "fish",
